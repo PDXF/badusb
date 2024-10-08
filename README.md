@@ -1,5 +1,6 @@
 
-Stand Up Against Hate: Silence is Complicity!
+Stand Up to Hate Against Furries and Other Minorities: Silence is Complicity!
+ZRK Flipper Zero BadUSB Payload Library
 ZRK Flipper Zero BadUSB Payload Library
 This repository aims to consolidate all Flipper Zero-friendly BadUSB payloads into a single, organized library—similar to the IRDB. With this, the community can easily stay updated by pulling from the master repository.
 
